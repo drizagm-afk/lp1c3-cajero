@@ -1,0 +1,12 @@
+load <Driza>
+use *
+
+const struct {
+    
+}
+
+#Run {
+    x := 10
+    const z := "Carolina"
+    dec := 10.5
+}
